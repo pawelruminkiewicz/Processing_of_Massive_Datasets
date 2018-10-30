@@ -1,0 +1,1 @@
+Tasks made to pass subject on studies. Mainly written in python
